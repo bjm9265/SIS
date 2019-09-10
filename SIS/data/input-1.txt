@@ -1,0 +1,19 @@
+help
+courses
+users
+professor hpb
+student cc2
+enroll cc2 5
+student cc2
+unenroll cc2 4
+student cc2
+course 4
+garbage
+course 100
+enroll aa0 100
+enroll xxx 1
+professor snape
+student hermione
+unenroll xxx 1
+unenroll aa0 100
+quit
